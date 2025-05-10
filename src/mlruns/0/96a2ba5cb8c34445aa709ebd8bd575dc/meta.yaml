@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/channary/Documents/Learn/sunrise/AI_course/homework/MLflow/titanic-mlflow/src/mlruns/0/96a2ba5cb8c34445aa709ebd8bd575dc/artifacts
+end_time: 1746890748647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96a2ba5cb8c34445aa709ebd8bd575dc
+run_name: victorious-duck-684
+run_uuid: 96a2ba5cb8c34445aa709ebd8bd575dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746890745339
+status: 3
+tags: []
+user_id: channary

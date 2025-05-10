@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/channary/Documents/Learn/sunrise/AI_course/homework/MLflow/titanic-mlflow/src/mlruns/0/35fe5a40e30d4652ad371c0263b2e6a7/artifacts
+end_time: 1746890586829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35fe5a40e30d4652ad371c0263b2e6a7
+run_name: secretive-sloth-109
+run_uuid: 35fe5a40e30d4652ad371c0263b2e6a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746890584856
+status: 3
+tags: []
+user_id: channary
