@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 def load_data():
-    df = pd.read_csv("data/titanic.csv")
+    df = pd.read_csv("/Users/channary/Documents/Learn/sunrise/AI_course/homework/MLflow/titanic-mlflow/data/titanic.csv")
     df = df[['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', 'Survived']].dropna()
     df['Sex'] = LabelEncoder().fit_transform(df['Sex'])
     X = df.drop('Survived', axis=1)
